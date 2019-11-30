@@ -1,0 +1,3 @@
+include requirements.txt
+include versioneer.py
+include src/graphene_py2neo/_version.py
